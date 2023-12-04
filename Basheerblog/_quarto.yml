@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "Basheerblog"
+  title: "Basheer's blog"
   navbar:
     right:
       - about.qmd

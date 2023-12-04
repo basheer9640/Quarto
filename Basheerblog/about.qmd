@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: himalayas.jpg
+image: himlayas.jpg
 about:
   template: jolla
   links:
@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+Trekking guide
