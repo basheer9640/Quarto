@@ -1,0 +1,9 @@
+---
+title: "Blogs"
+author: "Basheer Shaik"
+date: "2023-12-02"
+categories: [news, code, analysis]
+image: "himlayas.jpg"
+---
+
+This is a blog about creating a blog using quarto.
