@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: himlayas.jpg
+image: hampta.jpg
 about:
   template: jolla
   links:

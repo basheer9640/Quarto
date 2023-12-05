@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/Computing/index.html",
+    "href": "posts/Computing/index.html",
+    "title": "Post about publishing blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\nTo access files in a GitHub repository, you can use several methods depending on your needs and preferences. Here are some common ways:\nGitHub Website:\nOpen the GitHub repository in your web browser. Navigate to the specific folder or file you want to access. Click on the file to view its content. You can also download the file if needed. Clone the Repository:\nOpen your terminal or command prompt.\nUse the following command to clone the repository to your local machine:\nbash Copy code git clone https://github.com/username/repository.git Replace https://github.com/username/repository.git with the actual URL of the repository.\nNavigate to the cloned repository using the cd command:\nbash Copy code cd repository Once you are in the local repository, you can access and modify files using your preferred text editor or IDE.\nGitHub Desktop:\nIf you prefer a graphical user interface, you can use GitHub Desktop. Download and install GitHub Desktop from the GitHub Desktop website. Open GitHub Desktop, and click on “Clone a Repository” to clone the repository to your local machine. After cloning, you can use GitHub Desktop to view and modify files. Command-Line:\nIf you prefer the command line, you can use Git commands to fetch and pull changes.\nNavigate to the local repository using the terminal or command prompt.\nUse git pull to fetch and merge changes from the remote repository to your local repository.\nbash Copy code git pull origin main Replace main with the branch name you want to pull.\nThese are basic steps, and the exact commands may vary depending on your specific needs and the structure of the repository. Make sure you have the necessary permissions to access the repository if it is private.\nCheck Branch Status:\nAfter switching to the ‘gh-pages’ branch, use the following command to check the status:\nbash Copy code git status This will show you the status of the files in your working directory. It might give you more information about what is causing the issue.\nEnsure Files Exist:\nIf you are running a command that requires a specific file or path (e.g., git add .), make sure that the files actually exist in that branch. Commit Changes:\nIf you made changes to the ‘gh-pages’ branch, make sure you committed those changes before switching to the ‘main’ branch.\nbash Copy code git add . git commit -m “Commit message” After committing, try switching to the ‘main’ branch again.\nCheck Branch Status:\nAfter switching to the ‘gh-pages’ branch, use the following command to check the status:\nbash Copy code git status This will show you the status of the files in your working directory. It might give you more information about what is causing the issue.\nEnsure Files Exist:\nIf you are running a command that requires a specific file or path (e.g., git add .), make sure that the files actually exist in that branch. Commit Changes:\nIf you made changes to the ‘gh-pages’ branch, make sure you committed those changes before switching to the ‘main’ branch.\nbash Copy code git add . git commit -m “Commit message” After committing, try switching to the ‘main’ branch again.\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Installation guide",
+    "section": "",
+    "text": "This is about instllation of quarto and to host the pages in github."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Computing",
+    "section": "",
+    "text": "Post about publishing blog\n\n\n\n\n\n\n\nBlogs\n\n\n\n\n\n\n\n\n\n\n\nDec 2, 2023\n\n\nBasheer Shaik\n\n\n\n\n\n\nNo matching items"
+  }
+]
